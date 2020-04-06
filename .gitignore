@@ -1,0 +1,6 @@
+geckodriver.log
+json/
+
+# ignore directory .vscode/ and venv/
+.vscode/
+venv/
