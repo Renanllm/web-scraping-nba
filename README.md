@@ -25,7 +25,7 @@ Utilizando Python como linguagem de programação, e as bibliotecas:
   </br>
   <b>para instalação:</b> https://github.com/mozilla/geckodriver/releases
   </li>
-  <li>Algumas biblíotecas Python: 
+  <li>Algumas bibliotecas Python: 
     <ul>
       <li>Requests2</li>
       <li>Pandas</li>
